@@ -1,3 +1,3 @@
 #kakao clone 2021 
 
-practice
+practice HTML & CSS 
